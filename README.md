@@ -32,11 +32,11 @@ charminar is one of the most **famous building** in india.it was built by muhamm
   # Table creation
   The above table recommends some of my best food and drinks I exprienced till now
 
-      |    Food/drink      |    location          |  price  |
-      |    ----------      |    --------          |  -----  |
-      |    chicken pizza   |  Dominos             |  $9     |
-      |    veg burger      |  pizza hut           |  $4     |
-      |    veg sandwich    |  Tacobell            |  $12    |
-      |    chicken bbq     |  Nation              |  $13    |
+  |    Food/drink      |    location          |  price  |
+  |    -----           |    -----             |  -----  |
+  |    chicken pizza   |  Dominos             |  $9     |
+  |    veg burger      |  pizza hut           |  $4     |
+  |    veg sandwich    |  Tacobell            |  $12    |
+  |    chicken bbq     |  Nation              |  $13    |
 
      
