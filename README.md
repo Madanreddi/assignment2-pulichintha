@@ -39,4 +39,25 @@ charminar is one of the most **famous building** in india.it was built by muhamm
   |    veg sandwich    |  Tacobell            |  $12    |
   |    chicken bbq     |  Nation              |  $13    |
 
-     
+
+
+# Quotes by greatest people
+     > "THe greatest glory in living lies not in neverv falling, but in rising every time we fall". ***Nelson Mandela***
+     > "If life were predictable it would cease to be life, and be without flavour". ***Eleanor Roosevelt***
+
+# Algorithm on Combinatorics    
+
+  "Combinatorics is a range of linked studies which have something in common and yet diverge widely in their objectives, their methods, and the degree of coherence they have attained."[3] One way to define combinatorics is, perhaps, to describe its subdivisions with their problems and techniques.   
+
+```
+
+int C(int n, int k) {
+    int res = 1;
+    for (int i = n - k + 1; i <= n; ++i)
+        res *= i;
+    for (int i = 2; i <= k; ++i)
+        res /= i;
+    return res;
+}
+
+```
