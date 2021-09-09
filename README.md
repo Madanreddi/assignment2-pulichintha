@@ -20,9 +20,9 @@ charminar is one of the most **famous building** in india.it was built by muhamm
    2. Book a bus ticket to charminar
 4. Book a cab from hyderabad to charminar
 
-*clothes
-*books
-*camera
-*food
- *rice
- *powders
+* clothes
+* books
+* camera
+* food
+ * rice
+ * powders
