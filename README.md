@@ -47,7 +47,9 @@ charminar is one of the most **famous building** in india.it was built by muhamm
 
 # Algorithm on Combinatorics    
 
-  "Combinatorics is a range of linked studies which have something in common and yet diverge widely in their objectives, their methods, and the degree of coherence they have attained."[3] One way to define combinatorics is, perhaps, to describe its subdivisions with their problems and techniques.   
+  "Combinatorics is a range of linked studies which have something in common and yet diverge widely in their objectives, their methods, and the degree of coherence they have attained."[3] One way to define combinatorics is, perhaps, to describe its subdivisions with their problems and techniques.  
+
+  Source link for definition <https://en.wikipedia.org/wiki/Combinatorics> 
 
 ```
 
@@ -61,3 +63,4 @@ int C(int n, int k) {
 }
 
 ```
+Source link for code <https://cp-algorithms.com/combinatorics/binomial-coefficients.html>
