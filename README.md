@@ -24,5 +24,5 @@ charminar is one of the most **famous building** in india.it was built by muhamm
 * books
 * camera
 * food
- * rice
- * powders
+  * rice
+  * powders
